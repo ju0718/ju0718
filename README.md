@@ -19,14 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -45,6 +38,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
+<br>
 <h3>:cat:TOOLS</h3>
 
 ![eclipseide](https://img.shields.io/badge/eclipseide-1293D8.svg?&style=for-the-badge&logo=eclipseide&logoColor=White)
@@ -55,4 +49,9 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/git-FFEEA9.svg?&style=for-the-badge&logo=git&logoColor=White)
 
 <br>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 </div>
