@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# WELCOME <br> DA Dreaming.👋
+# WELCOME <br> DA Dreaming 👋
 
 <br>
 <br>
