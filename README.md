@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ju0718/ju0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,24 +13,46 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 
-### STACK
-<div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/kotlin.png" alt="kotlin" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
-</div>
+# WELCOME <br> I'm Ju👋
 
-### Currently Developing Tools
-<div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/linux.png" alt="linux" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### 🌱TECH STACKS
+
+![JAVA](https://img.shields.io/badge/JAVA-83B81A.svg?&style=for-the-badge&logo=JAVA&logoColor=White)
+![PYTHON](https://img.shields.io/badge/python-FCBFBD.svg?&style=for-the-badge&logo=python&logoColor=White)
+![csharp](https://img.shields.io/badge/csharp-FF6B00.svg?&style=for-the-badge&logo=csharp&logoColor=White)
+![MYSQL](https://img.shields.io/badge/mysql-FFFF09.svg?&style=for-the-badge&logo=mysql&logoColor=White) 
+![ORACLE](https://img.shields.io/badge/oracle-512BD4.svg?&style=for-the-badge&logo=oracle&logoColor=White)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?&style=for-the-badge&logo=MSSQL&logoColor=White)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3>:cat:TOOLS</h3>
+
+![eclipseide](https://img.shields.io/badge/eclipseide-1293D8.svg?&style=for-the-badge&logo=eclipseide&logoColor=White)
+![vsCode](https://img.shields.io/badge/vsCode-4D4D4D.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=White)
+![androidstudio](https://img.shields.io/badge/android%20studio-DDE072.svg?&style=for-the-badge&logo=androidstudio&logoColor=White)
+![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=White)
+![powerbi](https://img.shields.io/badge/powerbi-004833.svg?&style=for-the-badge&logo=powerbi&logoColor=White)
+![git](https://img.shields.io/badge/git-FFEEA9.svg?&style=for-the-badge&logo=git&logoColor=White)
+
+<br>
 </div>
